@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='real-time_speech_command'
